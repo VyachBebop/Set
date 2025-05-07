@@ -33,6 +33,7 @@ public class Main {
         products.add(new Product(23, 234, "Морковь"));
         products.add(new Product(16, 221, "Лук"));
         products.add(new Product(38, 114, "Чеснок"));
+        products.add(new Product(40, 114, "Чеснок"));
 
         for (Product product : products) {
             System.out.println(product);
